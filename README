@@ -1,0 +1,9 @@
+Requirements:
+    - Java 7+
+    - sbt
+
+Build/Run:
+    $ sbt run
+
+Test:
+    $ sbt test
